@@ -1,0 +1,33 @@
+_repo: Paul-Ralston-b-A-novel_75309
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holmes, Mary Jane
+    aliases:
+    - Holmes, Mary Jane (Hawes)
+    - Holmes, Mary J.
+    birthdate: 1825
+    deathdate: 1907
+    gutenberg_agent_id: '1239'
+    url: http://www.gutenberg.org/2009/agents/1239
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Jane_Holmes
+description: ''
+gutenberg_issued: '2025-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75309'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/008690170
+pgterms:marc905: 20210115130939holmes
+pgterms:marc906: '1896'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bG. W. Dillingham, $c1896, copyright 1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Paul Ralston : $b A novel'
+url: http://www.gutenberg.org/ebooks/75309
